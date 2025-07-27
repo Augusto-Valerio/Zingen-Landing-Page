@@ -1,19 +1,36 @@
-## 🚀 Sobre o Projeto
+<h1 align="center"> Currency converter</h1>
 
-Landing Page de marketing completa e responsiva de um aplicativo de Karaokê chamado Zingen.
+<p align="center">
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>
+</p>
 
-## 🛠️ Tecnologias Utilizadas
+<br>
 
- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="html5 logo" />
-  <img width="12px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="css3 logo" />
- </div>
+<p align="center">
+  <img alt="Preview Music Player" src=".github/preview.png" width="100%">
+</p>
 
+## 🚀 Technologies
 
-## 🎨 Design no Figma
+This project was developed with the following technologies:
 
-O design deste projeto está disponível no [Figma](https://www.figma.com/).
+<img src="https://skillicons.dev/icons?i=html,css,git,github&theme=dark" alt="HTML, CSS, GIT, GITHUB," width="140rem"/>
 
-Acesse o protótipo pelo link abaixo:
-[👉 Link para o Figma](https://www.figma.com/design/J2vQV6ZxqmUB67RLb4RkLj/LP-de-produto--Community-?node-id=3-376&t=0mwH8YOLcvJfA2fv-1)
+## 💻 Project
+
+Complete and responsive marketing landing page for a Karaoke app called Zingen.
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height = "16" width = "16"/> Layout
+
+You can view the project layout through [FROM THIS LINK](https://www.figma.com/design/J2vQV6ZxqmUB67RLb4RkLj/LP---Zingen?node-id=0-1&t=BYIUJ6ouAidrCo71-1). It is necessary to have an account on [Figma](https://figma.com) to access it.
+
+ ## 🌍 Deployment
+
+You can access the project directly through Vercel:  
+👉 [Zingen - landing page on Vercel](https://zingen-landing-page-swart.vercel.app/)
+
+---
+
+Made by : [Augusto Valerio](https://github.com/Augusto-Valerio).
