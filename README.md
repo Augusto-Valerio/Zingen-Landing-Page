@@ -1,4 +1,4 @@
-<h1 align="center"> Karaoke app called Zingen</h1>
+<h1 align="center"> Zingen Karaoke App</h1>
 
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
